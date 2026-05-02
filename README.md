@@ -104,5 +104,5 @@ Built a **2-page interactive dashboard** with slicers for Category, Gender, Subs
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [parbhaaat](https://linkedin.com/in/yourlinkedin)
+- LinkedIn: [parbhaaat](https://linkedin.com/in/parbhaaat)
 
