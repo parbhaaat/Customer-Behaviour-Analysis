@@ -6,6 +6,7 @@ This project performs a full data analytics pipeline on a **retail e-commerce da
 
 > **Business Problem:** How can a retail company understand customer purchasing behaviour to increase revenue, improve retention, and optimise marketing strategies?
 
+
 ---
 
 ## 🗂️ Dataset
